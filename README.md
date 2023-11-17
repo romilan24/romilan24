@@ -1,16 +1,15 @@
-### Hi there 👋
+# 👋 Hey, I'm Diego Calderon! 
 
-<!--
-**romilan24/romilan24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an experienced engineer specializing in forecasting, machine learning, deep learning, and optimization. With a strong background in financial engineering, I have built and deployed data driven products at scale, working closely with cross functional teams to identify high impact projects.
 
-Here are some ideas to get you started:
+👨‍💻 **Currently**: Open to new opportunities
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍🔬 Professional Interests:
+- Machine Learning & Deep Learning Algorithms
+- Open sourced LLM's like Llama 2.0 (thank you Meta)
+- Automation & MLOps
+  
+## 🌐 Let's Connect:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/diegocalderon/])
+
+> 📧 romilan024@gmail.com • 📍 Los Angeles, CA USA • 📞 (909) 638-7784
