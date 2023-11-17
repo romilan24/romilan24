@@ -2,8 +2,6 @@
 
 I'm an experienced engineer specializing in forecasting, machine learning, deep learning, and optimization. With a strong background in financial engineering, I have built and deployed data driven products at scale, working closely with cross functional teams to identify high impact projects.
 
-👨‍💻 **Currently**: Open to new opportunities
-
 ## 👨‍🔬 Professional Interests:
 - Machine Learning & Deep Learning Algorithms
 - Open sourced LLM's like Llama 2.0 (thank you Meta)
