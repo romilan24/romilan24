@@ -1,6 +1,6 @@
 # Hey, I'm Diego Calderon! 
 
-I'm an experienced engineer specializing in forecasting, machine learning, deep learning, and optimization. With a strong background in financial engineering, I have built and deployed data driven products at scale, working closely with cross functional teams to identify high impact projects.
+I'm an experienced engineer specializing in forecasting, machine learning, deep learning, and optimization. With a strong background in the Energy and Finance industries, I have built and deployed data driven products at scale, working closely with cross functional teams to identify high impact projects.
 
 ## Experiences
 Modeling: Machine/Deep Learning, Boosting, Time series, Recurrent networks
