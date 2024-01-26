@@ -2,8 +2,9 @@
 
 I'm an experienced engineer specializing in forecasting, machine learning, deep learning, and optimization. With a strong background in the Energy and Finance industries, I have built and deployed data driven products at scale, working closely with cross functional teams to identify high impact projects.
 
-## Let's Connect:
-Current Interests:
+Follow for more on Energy, Machine Learning, Deep Learning!
+
+## Current Interests:
 - High frequency state space models
 - Fast inference Stable Diffusion models 
 - Retrieval-augmented generation (RAG) based LLM models
