@@ -6,7 +6,7 @@ Follow for more on Energy, Machine Learning, Deep Learning.  Let me know if inte
 
 ## Project To Do list:
 - Spotify API playlist Recommender system (will post this soon)
-- Solar, Wind, Storage capacity forecasts (will use Open Meteo API [!(https://github.com/romilan24/multi-param-open-meteo))])
+- Solar, Wind, Storage capacity forecasts (will use Open Meteo API https://github.com/romilan24/multi-param-open-meteo)
 - RAG application (Langchain + Chroma)
 - Reinforecement Learning app
 - Time Series forecast w/ Transformers
