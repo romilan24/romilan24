@@ -2,7 +2,7 @@
 
 I'm an experienced engineer specializing in forecasting, machine learning, deep learning, and optimization in Energy and Finance.
 
-Follow for more on Energy, Machine Learning, Deep Learning.  And let me know if you're interested in collaborating on any projects, email me.
+Follow for more on Energy, Machine Learning, Deep Learning.  Let me know if interested in collaborating on any projects.
 
 ## Project To Do list:
 - Spotify API playlist Recommender system
