@@ -5,8 +5,8 @@ I'm an experienced engineer specializing in forecasting, machine learning, deep 
 Follow for more on Energy, Machine Learning, Deep Learning.  Let me know if interested in collaborating on any projects.
 
 ## Project To Do list:
-- Spotify API playlist Recommender system
-- Solar, Wind, Storage capacity forecasts
+- Spotify API playlist Recommender system (will post this soon)
+- Solar, Wind, Storage capacity forecasts (will use Open Meteo API [!(https://github.com/romilan24/multi-param-open-meteo))])
 - RAG application (Langchain + Chroma)
 - Reinforecement Learning app
 - Time Series forecast w/ Transformers
