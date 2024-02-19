@@ -7,7 +7,7 @@ Follow for more and let me know if you would like to collaborate on any projects
 ## Project To Do list:
 - Spotify API playlist Recommender system (will post this soon)
 - Solar, Wind, Storage capacity forecasts (will use Open Meteo API https://github.com/romilan24/multi-param-open-meteo)
-- LoRA and/or RAG application (Langchain + Chroma)
+- LoRA and/or RAG application (Langchain, Quadrant or Chroma vdb)
 - Reinforecement Learning app
 - Time Series forecast w/ Transformers
 - High frequency state space models (Kalman filter)
