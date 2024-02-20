@@ -1,6 +1,6 @@
 # Diego Calderon 
 
-I'm an experienced engineer specializing in forecasting, machine learning, deep learning, and optimization in Energy and Finance.  My current interests include Multi-Agent LLM networks, AI detection algorithms, and Vector databases.
+Experienced engineer specializing in forecasting, machine learning, deep learning, and optimization in Energy and Finance.  My current interests include Multi-Agent LLM networks, AI detection algorithms, and Vector databases.
 
 Follow for more and let me know if you would like to collaborate on any projects.
 
