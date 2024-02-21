@@ -4,7 +4,7 @@ Experienced engineer specializing in forecasting, machine learning, deep learnin
 
 Follow for more and let me know if you would like to collaborate on any projects.
 
-## Project To Do list:
+## :clipboard: Project To Do list:
 - LoRA and/or ~~RAG~~ application (Langchain or ~~Llama Index~~, ~~Quadrant~~ or Chroma vdb)
 - Spotify API playlist Recommender system (80% complete)
 - Solar, Wind, Storage capacity forecasts (will use Open Meteo API https://github.com/romilan24/multi-param-open-meteo)
