@@ -1,4 +1,4 @@
-## Diego Calderon 
+# Diego Calderon 
 
 Experienced engineer specializing in forecasting, machine learning, deep learning, and optimization in Energy and Finance.  My current interests include Multi-Agent LLM networks, AI detection algorithms, and Vector databases.
 
@@ -7,7 +7,7 @@ Follow for more and let me know if you would like to collaborate on any projects
 # :clipboard: Project To Do list:
 ## Energy
 - Solar, Wind, Storage capacity forecasts (will use Open Meteo API https://github.com/romilan24/multi-param-open-meteo)
-- Energy + Ancillary Service cooptimization (will base this on https://github.com/romilan24/Multi-Battery-Storage-Optimization and swap Energy for AS)
+- Energy + Ancillary Service cooptimization (will base on https://github.com/romilan24/Multi-Battery-Storage-Optimization)
 - Time Series forecast w/ Transformers
 - High frequency state space models (Kalman filter) for Real-time price forecasts
 
