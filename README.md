@@ -5,14 +5,18 @@ Experienced engineer specializing in forecasting, machine learning, deep learnin
 Follow for more and let me know if you would like to collaborate on any projects.
 
 ## :clipboard: Project To Do list:
-- LoRA and/or ~~RAG~~ application (~~Langchain~~ or ~~Llama Index~~, ~~Quadrant~~ or ~~Chroma~~ vdb)
-- Recommender system w/ RAG
+# Energy
 - Solar, Wind, Storage capacity forecasts (will use Open Meteo API https://github.com/romilan24/multi-param-open-meteo)
-- Multi-Agent LLM systems (considering Langroid project)
-- Reinforecement Learning app
-- AI vs Human detection algorithm
+- Energy + Ancillary Service cooptimization (will base this on https://github.com/romilan24/Multi-Battery-Storage-Optimization and swap Energy for AS)
 - Time Series forecast w/ Transformers
 - High frequency state space models (Kalman filter) for Real-time price forecasts
+
+# AI / ML / DL
+- AI vs Human detection algorithm
+- Reinforecement Learning app
+- Multi-Agent LLM systems (considering Langroid project)
+- LoRA and/or ~~RAG~~ application (~~Langchain~~ or ~~Llama Index~~, ~~Quadrant~~ or ~~Chroma~~ vdb)
+- Document type sorting (inc https://github.com/google/magika)
 - Automated Self-Driving, traffic prediction
 
 ## 💻 Tech Stack:
