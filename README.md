@@ -6,12 +6,13 @@ Follow for more and let me know if you would like to collaborate on any projects
 
 ## :clipboard: Project To Do list:
 - LoRA and/or ~~RAG~~ application (~~Langchain~~ or ~~Llama Index~~, ~~Quadrant~~ or ~~Chroma~~ vdb)
-- Spotify API playlist Recommender system (80% complete)
+- Recommender system w/ RAG
 - Solar, Wind, Storage capacity forecasts (will use Open Meteo API https://github.com/romilan24/multi-param-open-meteo)
+- Multi-Agent LLM systems (considering Langroid project)
 - Reinforecement Learning app
 - AI vs Human detection algorithm
 - Time Series forecast w/ Transformers
-- High frequency state space models (Kalman filter)
+- High frequency state space models (Kalman filter) for Real-time price forecasts
 - Automated Self-Driving, traffic prediction
 
 ## 💻 Tech Stack:
