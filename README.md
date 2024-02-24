@@ -12,7 +12,7 @@ Follow for more and let me know if you would like to collaborate on any projects
 - High frequency state space models (Kalman filter) for Real-time price forecasts
 
 ## AI / ML / DL
-- Turing Test - AI vs Human detection algorithm (GPTZero or GLTR)
+- Turing Test - AI vs Human detection algorithm (BERT or GPTZero)
 - Reinforecement Learning app
 - Multi-Agent LLM systems (Langroid or other Agent system)
 - LoRA and/or ~~RAG~~ application (~~Langchain~~ or ~~Llama Index~~, ~~Quadrant~~ or ~~Chroma~~ vdb)
