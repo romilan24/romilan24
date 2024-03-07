@@ -8,14 +8,14 @@ Follow for more and let me know if you would like to collaborate on any projects
 ## Energy
 - Solar, Wind, Storage capacity forecasts (will use Open Meteo API https://github.com/romilan24/multi-param-open-meteo)
 - ~~Pull AS prices from the CAISO OASIS API~~
-- Energy + Ancillary Service co-optimization (will base on https://github.com/romilan24/Multi-Battery-Storage-Optimization)
+- Energy + Ancillary Service co-optimization (will base on https://github.com/romilan24/Battery-Storage-Optimization-Strategy)
 - Time Series forecast w/ Transformers
 - High frequency state space models (Kalman filter) for Real-time price forecasts
 
 ## AI / ML / DL
 - Turing Test - AI vs Human detection algorithm (BERT or GPTZero)
 - Reinforecement Learning app
-- Multi-Agent LLM systems (Langroid or other Agent system)
+- Multi-Agent LLM systems (possibly combine with RL)
 - LoRA and/or ~~RAG~~ application (~~Langchain~~ or ~~Llama Index~~, ~~Quadrant~~ or ~~Chroma~~ vdb)
 - Document type sorting (inc https://github.com/google/magika)
 - Automated Self-Driving, traffic prediction
