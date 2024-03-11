@@ -13,6 +13,7 @@ Follow for more and let me know if you would like to collaborate on any projects
 - High frequency state space models (Kalman filter) for Real-time price forecasts
 
 ## AI / ML / DL
+- ~~Streamlit webapp for Ollama LLM inference~~
 - Turing Test - AI vs Human detection algorithm (BERT or GPTZero)
 - Reinforecement Learning app
 - Multi-Agent LLM systems (possibly combine with RL)
