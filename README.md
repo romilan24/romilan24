@@ -17,7 +17,7 @@ Follow for more and let me know if you would like to collaborate on any projects
 - Turing Test - AI vs Human detection algorithm (BERT or GPTZero)
 - Reinforecement Learning app
 - Multi-Agent LLM systems (possibly combine with RL)
-- LoRA and/or ~~RAG~~ application (~~Langchain~~ or ~~Llama Index~~, ~~Quadrant~~ or ~~Chroma~~ vdb)
+- LoRA and/or ~~RAG~~ application (~~Langchain~~ or ~~Llama Index~~, ~~Qdrant~~ or ~~Chroma~~ vdb)
 - Document type sorting (inc https://github.com/google/magika)
 - Automated Self-Driving, traffic prediction
 
