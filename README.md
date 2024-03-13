@@ -19,7 +19,7 @@ Follow for more and let me know if you would like to collaborate on any projects
 - Multi-Agent LLM systems:
     - Optimal prompt design assistant; describe what you want to agent who builds optimal prompt for you
     - Coding Agent + python kernel + Streamlit UI; tell Coding assistant what code you want and they build it, test it for you, fix any mistakes and give you final code
-- LoRA and/or ~~RAG~~ application (~~Langchain~~ or ~~Llama Index~~, ~~Qdrant~~ or ~~Chroma~~ vdb)
+- LoRA app and/or ~~RAG application (~~Langchain~~ or ~~Llama Index~~, ~~Qdrant~~ or ~~Chroma~~ vdb)~~
 - Document type sorting (inc https://github.com/google/magika)
 - Automated Self-Driving, traffic prediction
 
