@@ -8,7 +8,7 @@ Follow for more and let me know if you would like to collaborate on any projects
 ## Energy
 - Solar, Wind, Storage capacity forecasts (will use Open Meteo API https://github.com/romilan24/multi-param-open-meteo)
 - ~~Pull AS prices from the CAISO OASIS API~~
-- Energy + Ancillary Service co-optimization (will base on https://github.com/romilan24/Battery-Storage-Optimization-Strategy)
+- ~~Energy + Ancillary Service co-optimization (will base on https://github.com/romilan24/Battery-Storage-Optimization-Strategy)~~
 - Time Series forecast w/ Transformers
 - High frequency state space models (Kalman filter) for Real-time price forecasts
 
