@@ -16,6 +16,7 @@ Follow for more and let me know if you would like to collaborate on any projects
 - ~~Streamlit webapp for Ollama LLM inference~~
 - Turing Test - AI vs Human detection algorithm (BERT or GPTZero)
 - Reinforecement Learning app
+- Whipser + Coding LLM (deepseek-coder) app
 - Multi-Agent LLM systems:
     - Optimal prompt design assistant; describe what you want to agent who builds optimal prompt for you
     - Coding Agent + python kernel + Streamlit UI; tell Coding assistant what code you want and they build it, test it for you, fix any mistakes and give you final code
