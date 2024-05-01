@@ -9,19 +9,19 @@ Follow for more and let me know if you would like to collaborate on any projects
 - Solar, Wind, Storage capacity forecasts (will use Open Meteo API https://github.com/romilan24/multi-param-open-meteo)
 - ~~Pull AS prices from the CAISO OASIS API~~
 - ~~Energy + Ancillary Service co-optimization (will base on https://github.com/romilan24/Battery-Storage-Optimization-Strategy)~~
-- Time Series forecast w/ Transformers
+- Time Series forecast w/ Mamba models
 - High frequency state space models (Kalman filter) for Real-time price forecasts
 
 ## AI / ML / DL
 - ~~Streamlit webapp for Ollama LLM inference~~
-- Turing Test - AI vs Human detection algorithm (BERT or GPTZero)
-- Reinforecement Learning app
-- Whipser + Coding LLM (deepseek-coder) app
+- Turing Test => AI vs Human detection algorithm (BERT or GPTZero)
+- Reinforecement Learning applied to LLM performance
+- Whipser + LLM app (Rhasspy Piper + Llama 3)
 - Multi-Agent LLM systems:
     - Optimal prompt design assistant; describe what you want to agent who builds optimal prompt for you
     - Coding Agent + python kernel + Streamlit UI; tell Coding assistant what code you want and they build it, test it for you, fix any mistakes and give you final code
 - LoRA app and/or ~~RAG application (~~Langchain~~ or ~~Llama Index~~, ~~Qdrant~~ or ~~Chroma~~ vdb)~~
-- Document type sorting (inc https://github.com/google/magika)
+- Document type sorting (https://github.com/google/magika)
 - Automated Self-Driving, traffic prediction
 
 # 💻 Tech Stack:
